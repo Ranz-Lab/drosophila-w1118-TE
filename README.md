@@ -1,6 +1,6 @@
 # drosophila-w1118-TE
 
-This repository contains all code used in the analysis of transposable element (TE) expression from single-nucleus RNA-seq data of *Drosophila melanogaster* **w1118** testis. The associated study is entitled “Heterochromatic loci drive the transposable element expression burst during *Drosophila* spermatogenesis.”
+This repository contains all code used in the analysis of transposable element (TE) expression from single-nucleus RNA-seq data of *Drosophila melanogaster* *w<sup>1118<sup>* testis. The associated study is entitled “Heterochromatic loci drive the transposable element expression burst during *Drosophila* spermatogenesis.”
 
 ## 📁 Repository Structure
 
