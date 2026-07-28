@@ -30,8 +30,8 @@ set.seed(1234)
 # 2. File paths and parameters
 # ------------------------------------------------------------------------------
 
-input_dir  <- "path/to/input"
-output_dir <- "path/to/output"
+input_dir  <- "/data/input"
+output_dir <- "/results"
 
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
