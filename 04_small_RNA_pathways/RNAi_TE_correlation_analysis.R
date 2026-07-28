@@ -13,7 +13,6 @@
 #   D. Cell-type medians and correlations for loqs versus DNA, LINE, and LTR
 #      expression loads
 #
-# No plotting is performed.
 #
 # Required input files:
 #   FCA-testis-merged-umap-final-soloTE-subfamily-w1118.rds
