@@ -3,8 +3,8 @@
 # ==============================================================================
 # Distance of expressed SoloTE loci to the nearest gene TSS
 #
-# This script reproduces the genomic-distance analysis used to test whether
-# expressed TE loci shift toward or away from gene promoters across Drosophila
+# This script is used to test whether expressed TE loci shift 
+# toward or away from gene promoters across Drosophila
 # spermatogenesis.
 #
 # The script:
