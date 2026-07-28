@@ -19,6 +19,4 @@ This repository contains all code used in the analysis of transposable element (
 
 ## 📦 Data Access
 
-The analyses use single-nucleus RNA-seq data from *D. melanogaster* **w1118** testes together with a strain-matched de novo genome assembly and manually curated TE annotation.
-
-Raw sequencing data, the genome assembly, TE annotation, and processed expression matrices will be made available through the associated NCBI BioProject and data repositories. Accession information will be added upon public release.
+Single-nucleus data was obtained from the Fly Cell Atlas. The *w<sup>1118<sup>* genome assembly and raw Nanopore and Illumina sequencing reads will be made available through the associated NCBI BioProject and data repositories. Accession information will be added upon public release.
