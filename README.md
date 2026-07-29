@@ -10,9 +10,9 @@ This repository contains all code used in the analysis of transposable element (
 |       | ├── `00_SoloTE/`             | Locus-level TE quantification using SoloTE                                                                           |
 |       | └── `01_scTE/`               | TE-family-level quantification using scTE                                                                            |
 | **1** | **`01_genomic_context/`**    | Analysis of TE expression across genomic compartments and distances between expressed TE loci and neighbouring genes |                         
-| **3** | **`02_H3K9me2/`**            | Integration of TE expression with H3K9me2 profiles across genomic compartments                                       |
-| **4** | **`03_small_RNA_pathways/`** | Relationships between TE expression and piRNA- and RNAi-pathway gene expression                                      |
-| **5** | **`04_hdWGCNA/`**            | TE co-expression network analysis and identification of cell-type-associated TE modules      |
+| **2** | **`02_H3K9me2/`**            | Integration of TE expression with H3K9me2 profiles across genomic compartments                                       |
+| **3** | **`03_small_RNA_pathways/`** | Relationships between TE expression and piRNA- and RNAi-pathway gene expression                                      |
+| **4** | **`04_hdWGCNA/`**            | TE co-expression network analysis and identification of cell-type-associated TE modules      |
 
 ---
 
