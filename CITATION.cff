@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the citation below."
+title: "drosophila-w1118-TE"
+version: 1.0.1
+type: software
+license: MIT
+authors:
+  - family-names: Hariyani
+    given-names: Imtiyaz Enayatali
+    affiliation: University of California, Irvine
+    orcid: "https://orcid.org/0000-0003-2657-9842"
+abstract: >
+  Scripts and computational workflows used to analyze transposable element
+  expression and chromatin dynamics during Drosophila spermatogenesis.
+keywords:
+  - transposable elements
+  - single-cell RNA sequencing
+  - Drosophila
+  - bioinformatics
+  - genomics
